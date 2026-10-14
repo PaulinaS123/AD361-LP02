@@ -55,7 +55,7 @@ Adding parenthesis () to total() and tax() so JavaScript actually runs those fun
 
 ----
 ## Root Cause
-- 1. Root Cause
+
 Example: In the addItem() function, the code uses = instead of : when creating an object, const newItem = { "name" = name, "price" = price };
 A root cause is the underlying reason a problem occurs. Here, the object is written using = instead of : to assign values to its properties..
 
